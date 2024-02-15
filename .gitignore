@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # videos and images
-videos/*
 images/*
 Mediapipe_data/*
 Mediapipe_data_close/*
